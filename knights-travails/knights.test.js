@@ -1,0 +1,1 @@
+import { knightsMoves } from "./knights";
